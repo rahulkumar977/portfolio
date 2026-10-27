@@ -79,7 +79,7 @@ const Banner = () => {
               Find me in
             </h2>
             <div className="flex gap-4">
-              <Link to="https://github.com/fired-rahul-udp-80" target="_blank">
+              <Link to="https://github.com/rahulkumar977" target="_blank">
                 <div className="relative group z-20">
                   <span className="bannerIcon bg-[#080808] text-white hover:scale-110 transition-transform duration-300">
                     <FaGithub />
@@ -91,7 +91,7 @@ const Banner = () => {
                 </div>
               </Link>
               <Link
-                to="https://www.instagram.com/rahul_this_side9.0/"
+                to="https://www.instagram.com/"
                 target="_blank"
               >
                 <div className="relative group z-20">
@@ -105,7 +105,7 @@ const Banner = () => {
                 </div>
               </Link>
               <Link
-                to="https://www.linkedin.com/in/rahulkumartechinfo/"
+                to="https://www.linkedin.com/in/rahulkumar977/"
                 target="_blank"
               >
                 <div className="relative group z-20">

@@ -195,7 +195,7 @@ export const projectsList = [
   {
     id: "06",
     image: [project80, project81, project82],
-    liveUrl: "https://itsrahulkumar.netlify.app/",
+    liveUrl: "https://rahulkumar977.netlify.app/",
     title: "Personal Portfolio",
     category: "Modern React Portfolio",
     des: "Personal Website Developed and maintained to showcase skills and experience in web development, including HTML, CSS, JavaScript, Reactjs, and responsive design with deployed high-speed performance.",
@@ -222,7 +222,7 @@ export const projectsList = [
   {
     id: "09",
     image: [project70],
-    liveUrl: "https://github.com/fired-rahul-udp-80/googleauth_login",
+    liveUrl: "https://github.com/rahulkumar977/googleauth_login",
     title: "Google Login Integration",
     category: "Auth & Security Protocol",
     des: "This project demonstrates a Google Login integration for web applications, allowing users to authenticate securely using their Google accounts with OAuth 2.0 and JWT session management.",
@@ -499,13 +499,13 @@ export const socialLinksData = [
   {
     id: "github",
     title: "GitHub Profile",
-    link: "https://github.com/fired-rahul-udp-80",
+    link: "https://github.com/rahulkumar977",
     icon: FaGithub,
   },
   {
     id: "linkedin",
     title: "LinkedIn Profile",
-    link: "https://www.linkedin.com/in/rahulkumartechinfo/",
+    link: "https://www.linkedin.com/in/rahulkumar977/",
     icon: FaLinkedin,
   },
   {
